@@ -1,0 +1,9 @@
+name: name_venv
+channels:
+  - defaults
+dependencies:
+  - python=3.11.3
+  - numpy
+  - pandas
+variables:
+  VAR_NAME_1: var_content
